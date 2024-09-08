@@ -10,3 +10,6 @@ This script prints the effective username of the current user.
 
 ## Script 4-empty
 This script creates an empty file called hello.
+
+## Script 5-execute
+This script adds execute permission to the owner of the file hello.
